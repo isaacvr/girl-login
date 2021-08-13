@@ -32,6 +32,10 @@ body {
   background-size: 100vw 100vh;
   background-repeat: no-repeat;
 }
+
+html {
+  font-size: min(1vw, 16px);
+}
 </style>
 
 <style scoped>
